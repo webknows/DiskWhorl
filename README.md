@@ -20,7 +20,7 @@ Built with SwiftUI and AppKit. No third-party dependencies, no network access, n
    ```
 2. Get the source and build the app bundle:
    ```sh
-   git clone https://github.com/<owner>/DiskWhorl.git
+   git clone https://github.com/webknows/DiskWhorl.git
    cd DiskWhorl
    zsh Scripts/build-app.sh             # creates build/DiskWhorl.app for this Mac
    zsh Scripts/build-app.sh --install   # also copies it to ~/Applications

@@ -1,0 +1,17 @@
+# Build products (contain absolute paths from the machine that built them)
+.build/
+build/
+build.log
+*.app
+*.iconset
+
+# Xcode and SwiftPM per-user state
+.swiftpm/
+*.xcodeproj/
+xcuserdata/
+DerivedData/
+Package.resolved
+
+# macOS Finder metadata
+.DS_Store
+._*
